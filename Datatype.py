@@ -28,7 +28,7 @@ print(fruits)
 print(countries)
 
 
-print(student["Nationality"])
+print(student["age"])
 
 # Typecasting - converting one data type to another
 print(float(number))

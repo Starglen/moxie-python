@@ -17,11 +17,12 @@ print(len(course))
 # Modifying a string
 print(text.upper())
 print(course.lower())
+space = " "
 
 # string concatenation
 firstname = "John"
 lastname = "Doe"
-print("Hello " + firstname + " " + lastname)
+print("Hello " , firstname + space + lastname)
 
 print(text + " " + course)
 
